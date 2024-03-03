@@ -11,7 +11,7 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 from urllib.parse import quote_plus
 from util.file_properties import get_name, get_hash, get_media_file_size
 
-async def reply_forward(message: Message, file_id: int):
+#async def reply_forward(message: Message, file_id: int):
 
    # try:
     #    await message.reply_text(
